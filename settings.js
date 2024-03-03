@@ -27,10 +27,10 @@ global.wagc = "🫦"
 global.themeemoji = '🪀'
 global.wm = "Sreejit Bot Inc."
 global.botscript = 'Lund Lelo Bhai🫦' //script link
-global.packname = "𝗪𝗵𝗼 𝗶𝘀 𝘆𝗼𝘂𝗿 𝗱𝗮𝗱𝗱𝘆?"
-global.author = "🦄드림 가이 Rup Sama🍷\n\n+918717845264"
+global.packname = "𝗪𝗵𝗼𝗜𝘀𝗬𝗼𝘂𝗿𝗗𝗮𝗱𝗱𝘆?"
+global.author = "🦄드림 가이Rup-Sama🍷\n\n\n\n\n\+918717845264"
 global.creator = "918617845264@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '-'
 global.premium = ["918617845264"] // Premium User
 global.hituet = 0
 
